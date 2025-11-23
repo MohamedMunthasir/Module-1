@@ -13,8 +13,8 @@ To write a Python program to read and print a float value.
 
 ## PROGRAM
 ```python
-# Reg.No-212222220032
-# Name- Rahul B
+# Reg.No-212222220025
+# Name- Mohamed Munthasir Y
 # Write your code here
 
 float_1=float(input())
