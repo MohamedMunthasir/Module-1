@@ -11,8 +11,8 @@ To write a Python program to check whether a given year is a leap year or not.
 4.Display whether the year is a leap year or not.
 ## PROGRAM
 ```python
-# Reg.No-212222220032
-# Name- Rahul B
+# Reg.No-212222220025
+# Name- Mohamed Munthasir Y
 # Write your code here
 a=int(input())
 if(a%100==0):
